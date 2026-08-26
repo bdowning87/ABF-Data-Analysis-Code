@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "ABF Data Analysis Code: interactive contractility analysis of living myocardial slice recordings"
+abstract: "Python tool for extracting per-twitch contractile parameters (active and passive force, amplitude, time to peak, time to 50% and 90% relaxation, and decay time constant tau) from Axon Binary Format (.abf) force recordings of living myocardial slices."
+type: software
+authors:
+  - family-names: Downing
+    given-names: Barrett
+    affiliation: "National Heart and Lung Institute, Imperial College London"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # add your ORCID iD if you have one
+repository-code: "https://github.com/bdowning87/ABF-Data-Analysis-Code"
+license: MIT
+version: 1.0.0
+date-released: 2026-08-26
+# doi: 10.5281/zenodo.XXXXXXX   # fill in after the Zenodo release is created
+keywords:
+  - electrophysiology
+  - cardiac
+  - myocardial slices
+  - contractility
+  - ABF
+  - pyabf

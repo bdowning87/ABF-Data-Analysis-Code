@@ -1,0 +1,18 @@
+# Analysis outputs
+peak_statistics.csv
+summary_statistics.csv
+
+# Raw data
+*.abf
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
